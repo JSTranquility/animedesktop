@@ -1,0 +1,48 @@
+{
+  "name": "",
+  "locale": "es",
+  "clockFormat": "%H:%M",
+  "monitor": "primary",
+  "panelOpacity": 0.82,
+  "animations": true,
+  "performanceMode": false,
+  "wallpaper": "assets/demo/wallpaper.svg",
+  "character": "assets/demo/character.svg",
+  "gallery": [
+    "assets/demo/card-1.svg",
+    "assets/demo/card-2.svg",
+    "assets/demo/card-3.svg",
+    "assets/demo/card-4.svg"
+  ],
+  "dockApps": [
+    "org.gnome.Nautilus.desktop",
+    "org.gnome.Settings.desktop"
+  ],
+  "sideApps": [
+    "org.gnome.Settings.desktop"
+  ],
+  "panelScale": 1,
+  "theme": {
+    "mode": "dark",
+    "foreground": "#DDD6D8",
+    "muted": "#A49A9F",
+    "accent": "#D95466",
+    "pink": "#963345",
+    "lavender": "#D95466",
+    "ink": "#DDD6D8",
+    "surface": "#101014",
+    "raised": "#17141B",
+    "border": "#51313A",
+    "blurRadius": 28,
+    "blurBrightness": 0.42,
+    "animationDuration": 160
+  },
+  "characterTitle": "ANIME DESKTOP",
+  "badgeTitle": "Demo",
+  "galleryOpacity": 0.86,
+  "applyWallpaper": true,
+  "integration": {
+    "disableExtensions": [],
+    "stopHidamari": false
+  }
+}

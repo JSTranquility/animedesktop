@@ -1,0 +1,47 @@
+{
+  "name": "",
+  "locale": "es",
+  "clockFormat": "%H:%M",
+  "monitor": "primary",
+  "panelOpacity": 0.82,
+  "animations": true,
+  "performanceMode": false,
+  "wallpaper": "assets/wallpapers/chisa/chisa-midnight.svg",
+  "character": "assets/characters/chisa/chisa-arabwuwa.webp",
+  "gallery": [
+    "assets/gallery/chisa/portrait-card.jpg",
+    "assets/gallery/chisa/threads-card.jpg",
+    "assets/gallery/chisa/official-battle.jpg",
+    "assets/gallery/chisa/balcony-card.jpg"
+  ],
+  "dockApps": [
+    "org.gnome.Nautilus.desktop",
+    "org.gnome.Settings.desktop"
+  ],
+  "sideApps": [
+    "org.gnome.Settings.desktop"
+  ],
+  "panelScale": 1,
+  "theme": {
+    "mode": "dark",
+    "foreground": "#DDD6D8",
+    "muted": "#A49A9F",
+    "accent": "#D95466",
+    "pink": "#963345",
+    "lavender": "#D95466",
+    "ink": "#DDD6D8",
+    "surface": "#101014",
+    "raised": "#17141B",
+    "border": "#51313A",
+    "blurRadius": 28,
+    "blurBrightness": 0.42,
+    "animationDuration": 160
+  },
+  "characterTitle": "\u5343 \u54b2  /  C H I S A",
+  "badgeTitle": "Chisa",
+  "galleryOpacity": 0.86,
+  "integration": {
+    "disableExtensions": [],
+    "stopHidamari": false
+  }
+}

@@ -1,0 +1,22 @@
+name: Bug report
+description: Report a reproducible desktop issue
+title: "[Bug] "
+body:
+  - type: input
+    id: gnome
+    attributes:
+      label: GNOME Shell version and distribution
+      placeholder: GNOME 51, CachyOS, Wayland
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce and expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: diagnostic
+    attributes:
+      label: Relevant error messages
+      description: Include only relevant messages; omit keys, personal paths and full dconf dumps.

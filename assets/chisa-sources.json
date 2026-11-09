@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "profile": "chisa",
+  "notice": "Third-party artwork is not included in this repository or covered by its MIT license. See source pages for credits and terms. Chisa and Wuthering Waves belong to KURO GAMES.",
+  "files": [
+    {
+      "path": "assets/characters/chisa/chisa-arabwuwa.webp",
+      "url": "https://arabwuwa.com/images/character-page/chisa.webp",
+      "source": "https://arabwuwa.com/characters/chisa/",
+      "sha256": "3bd7393a3d7194fbabdfb6ee4e2a9c42a72cf8fc24a7dd15cd6ff3963951ec08"
+    },
+    {
+      "path": "assets/wallpapers/chisa/crimson-portrait.jpg",
+      "url": "https://www.pixiewall.com/content/wallpapers/full/44/pixiewall-r96t9v.jpg",
+      "source": "https://www.pixiewall.com/wallpaper/chisa-wuthering-waves-black-choker-4k-23689",
+      "sha256": "3c02469de3c7ab8cda259a059b76f809e0cf0d47220541292926aa82d1ecaf6b"
+    },
+    {
+      "path": "assets/gallery/chisa/portrait-card.jpg",
+      "url": "https://www.pixiewall.com/content/wallpapers/medium/44/pixiewall-r96t9v.jpg",
+      "source": "https://www.pixiewall.com/wallpaper/chisa-wuthering-waves-black-choker-4k-23689",
+      "sha256": "1d589c8de83b11bc9c563ea80a7635b7cbbaee85fc4d7882adfc0a8b46f3f64b"
+    },
+    {
+      "path": "assets/gallery/chisa/threads-card.jpg",
+      "url": "https://www.pixiewall.com/content/wallpapers/medium/44/pixiewall-pdbdak.jpg",
+      "source": "https://www.pixiewall.com/wallpaper/chisa-wuthering-waves-unraveling-forte-4k-23763",
+      "sha256": "d64353d456247d24631c6c3dfaf5a0e656901ecfaa581a3bb74e580d868948f1"
+    },
+    {
+      "path": "assets/gallery/chisa/official-battle.jpg",
+      "url": "https://pbs.twimg.com/media/G7JPmXeaYAAgfSS.jpg?format=jpg&name=orig",
+      "source": "https://x.com/Wuthering_Waves/status/1996067541777584361",
+      "sha256": "6d859555c05510db39b3bdff31195ae49d10e5c58718bd47cde987cb944c1e67"
+    },
+    {
+      "path": "assets/gallery/chisa/balcony-card.jpg",
+      "url": "https://www.pixiewall.com/content/wallpapers/medium/44/pixiewall-mcgffe.jpg",
+      "source": "https://www.pixiewall.com/wallpaper/chisa-wuthering-waves-eye-unraveling-4k-24381",
+      "sha256": "ded0c7ad02c47c430e5e66959fcd424d184f8c16e0285c37eecd1110a0e7a11a",
+      "alternateSha256": [
+        "0429d98f6fa51ca8c3def54035b6e487b4a6407a649fd5e0f5f6824241d4ac65"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "animedesktop",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Native-resolution glass desktop widgets for GNOME Wayland",
+  "license": "MIT",
+  "engines": {"node": ">=22"},
+  "scripts": {"test": "bash scripts/check.sh", "check": "bash scripts/check.sh"}
+}

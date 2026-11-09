@@ -1,0 +1,72 @@
+# Personal configuration and runtime state
+/config/settings.json
+/config/pending-settings.json
+/config/*.local.*
+*.local.json
+/backups/
+/logs/
+/dist/
+/build/
+**/project-location.json
+*.log
+*.pid
+*.pid.lock
+*.sock
+
+# Downloaded/personal artwork; retain original demo assets and licensed fonts
+/assets/characters/
+/assets/gallery/
+/assets/wallpapers/
+/assets/local/
+/assets/user/
+
+# Python and JavaScript generated files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+.cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+coverage/
+*.tsbuildinfo
+
+# Local editor state and temporary files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+*.temp
+*.bak
+*~
+
+# Credentials; example configuration stays versioned
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Generated archives and machine-specific dumps
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.dconf
+*.core
+core.[0-9]*
+
+# Operating system metadata
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini

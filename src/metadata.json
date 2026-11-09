@@ -1,0 +1,10 @@
+{
+  "uuid": "anime-glass@jsttranquility",
+  "name": "AnimeDesktop",
+  "description": "Native-resolution glass desktop widgets for GNOME Wayland, with configurable themes, calendar, launchers and MPRIS",
+  "shell-version": [
+    "51"
+  ],
+  "version": 4,
+  "url": "https://github.com/JSTranquility/animedesktop"
+}
